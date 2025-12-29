@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>LiangBlog</title>
+    <link href="https://wesleyqliang.github.io/LiangBlog/feed.xml" rel="self" />
+    <link href="https://wesleyqliang.github.io/LiangBlog" />
+    <updated>2025-12-29T22:41:08+08:00</updated>
+    <author>
+        <name>WesleyLiang</name>
+    </author>
+    <id>https://wesleyqliang.github.io/LiangBlog</id>
+
+    <entry>
+        <title>Man What Can I Say</title>
+        <author>
+            <name>WesleyLiang</name>
+        </author>
+        <link href="https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html"/>
+        <id>https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html</id>
+
+        <updated>2025-12-29T22:41:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

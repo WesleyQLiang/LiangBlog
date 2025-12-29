@@ -1,2 +1,0 @@
-# LiangBlog
-My blog
