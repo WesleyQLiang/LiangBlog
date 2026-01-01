@@ -3,7 +3,7 @@
     <title>LiangBlog</title>
     <link href="https://wesleyqliang.github.io/LiangBlog/feed.xml" rel="self" />
     <link href="https://wesleyqliang.github.io/LiangBlog" />
-    <updated>2026-01-01T16:32:08+08:00</updated>
+    <updated>2026-01-01T16:37:30+08:00</updated>
     <author>
         <name>WesleyLiang</name>
     </author>
@@ -25,31 +25,15 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" src="//player.bilibili.com/player.html?isOutside=true&aid=115806981588565&bvid=BV1nHvhBGEjm&cid=35069036945&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div></div>
+                <div><div class="post__iframe"><iframe loading="lazy" src="//player.bilibili.com/player.html?isOutside=true&aid=115806981588565&bvid=BV1nHvhBGEjm&cid=35069036945&p=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div></div>
 
   <p>
     看泪目了
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Man What Can I Say</title>
-        <author>
-            <name>WesleyLiang</name>
-        </author>
-        <link href="https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html"/>
-        <id>https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html</id>
 
-        <updated>2025-12-29T22:41:08+08:00</updated>
-            <summary>
-                <![CDATA[
-                    Test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Test</p>
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>

@@ -15,28 +15,14 @@
             "url": "https://wesleyqliang.github.io/LiangBlog/kan-ku-24yi-gao-zhong-sheng.html",
             "title": "看哭24亿高中生",
             "summary": "看泪目了",
-            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"//player.bilibili.com/player.html?isOutside=true&aid=115806981588565&bvid=BV1nHvhBGEjm&cid=35069036945&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe></div></div>\n\n  <p>\n    看泪目了\n  </p>",
+            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"//player.bilibili.com/player.html?isOutside=true&aid=115806981588565&bvid=BV1nHvhBGEjm&cid=35069036945&p=1&high_quality=1&danmaku=0\" allowfullscreen=\"allowfullscreen\" width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-top-navigation allow-same-origin allow-forms allow-scripts\"></iframe></div></div>\n\n  <p>\n    看泪目了\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "WesleyLiang"
             },
             "tags": [
             ],
             "date_published": "2026-01-01T16:31:00+08:00",
-            "date_modified": "2026-01-01T16:31:00+08:00"
-        },
-        {
-            "id": "https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html",
-            "url": "https://wesleyqliang.github.io/LiangBlog/man-what-can-i-say.html",
-            "title": "Man What Can I Say",
-            "summary": "Test",
-            "content_html": "<p>Test</p>",
-            "author": {
-                "name": "WesleyLiang"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-29T22:41:08+08:00",
-            "date_modified": "2026-01-01T16:32:08+08:00"
+            "date_modified": "2026-01-01T16:37:30+08:00"
         }
     ]
 }
