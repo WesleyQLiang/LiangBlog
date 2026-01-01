@@ -3,12 +3,36 @@
     <title>LiangBlog</title>
     <link href="https://wesleyqliang.github.io/LiangBlog/feed.xml" rel="self" />
     <link href="https://wesleyqliang.github.io/LiangBlog" />
-    <updated>2025-12-29T22:41:08+08:00</updated>
+    <updated>2026-01-01T16:32:08+08:00</updated>
     <author>
         <name>WesleyLiang</name>
     </author>
     <id>https://wesleyqliang.github.io/LiangBlog</id>
 
+    <entry>
+        <title>看哭24亿高中生</title>
+        <author>
+            <name>WesleyLiang</name>
+        </author>
+        <link href="https://wesleyqliang.github.io/LiangBlog/kan-ku-24yi-gao-zhong-sheng.html"/>
+        <id>https://wesleyqliang.github.io/LiangBlog/kan-ku-24yi-gao-zhong-sheng.html</id>
+
+        <updated>2026-01-01T16:31:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                    看泪目了
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><div class="post__iframe"><iframe loading="lazy" src="//player.bilibili.com/player.html?isOutside=true&aid=115806981588565&bvid=BV1nHvhBGEjm&cid=35069036945&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div></div>
+
+  <p>
+    看泪目了
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Man What Can I Say</title>
         <author>
